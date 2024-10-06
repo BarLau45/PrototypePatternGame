@@ -1,0 +1,14 @@
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\bin\Debug\net8.0\Prototype2.exe
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\bin\Debug\net8.0\Prototype2.deps.json
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\bin\Debug\net8.0\Prototype2.runtimeconfig.json
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\bin\Debug\net8.0\Prototype2.dll
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\bin\Debug\net8.0\Prototype2.pdb
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\Prototype2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\Prototype2.AssemblyInfoInputs.cache
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\Prototype2.AssemblyInfo.cs
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\Prototype2.csproj.CoreCompileInputs.cache
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\Prototype2.dll
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\refint\Prototype2.dll
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\Prototype2.pdb
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\Prototype2.genruntimeconfig.cache
+C:\Users\TacoB\Documentos\Scripts\Prototype\Prototype\Prototype2\obj\Debug\net8.0\ref\Prototype2.dll
